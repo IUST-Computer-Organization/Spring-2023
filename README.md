@@ -13,5 +13,6 @@ This repository includes the following directories:
 - Homeworks
 - Presentations
 - Verilog Assignments
+- Calculator Pipeline
 
 email: iustCompOrg+4012@gmail.com
