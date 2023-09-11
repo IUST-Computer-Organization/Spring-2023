@@ -6,7 +6,7 @@ Iran University of Science and Technology - Compruter Organization
 
 > Course Instructor: Professor H.S. Shahhosseini
 
-> Teaching Assistants: Arvin Delavari - Faraz Ghoreishy
+> Teaching Assistants: Faraz Ghoreishy - Arvin Delavari
 
 This repository includes the following directories:
 - Final Project
