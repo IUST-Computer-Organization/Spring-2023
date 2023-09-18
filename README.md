@@ -1,5 +1,4 @@
-<img src="https://github.com/IUST-Computer-Organization/.github/blob/main/images/CompOrg_green.png" alt="Image" width="85" height="85" style="vertical-align:middle">
-Computer Organization Spring-2023
+<img src="https://github.com/IUST-Computer-Organization/.github/blob/main/images/CompOrg_green.png" alt="Image" width="85" height="85" style="vertical-align:middle"> Computer Organization Spring-2023
 =================================
 Files and Documents for the Class of Spring 2023
 
